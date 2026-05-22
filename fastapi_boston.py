@@ -35,7 +35,7 @@ class HousePrice(BaseModel):
 
 @app.get("/")
 def home():
-    return {"message":"Welcome to the Boston House Price Prediction Api"}
+    return {"message":"Welcome to the Boston House Price Prediction Dockerised ML Pipeline!"}
 
 @app.post("/predict")
 def predict(data:HousePrice):
