@@ -35,10 +35,10 @@ Target:
 ## Model Performance
 -RandomForestRegressor-R2 score-69%  
 
-##API Endpoint  
+##API Endpoint   
 -Post /predict  
 
-##Deployment  
+##Deployment    
 Live Demo:https://boston-house-price-prediction-2mr3.onrender.com/docs  
 
 
