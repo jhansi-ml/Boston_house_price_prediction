@@ -1,6 +1,6 @@
 # Boston House Price Prediction
 
-An end-to-end Machine Learning project that predicts Boston house prices using regression models and exposes predictions through a FastAPI REST API.
+An end-to-end Machine Learning project that predicts Boston house prices using ensemble models and exposes predictions through a FastAPI REST API.
 
 ## Features
 - Data preprocessing pipeline
