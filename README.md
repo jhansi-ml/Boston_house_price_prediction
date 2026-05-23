@@ -41,5 +41,8 @@ Target:
 ## Deployment    
 Live Demo:https://boston-house-price-prediction-2mr3.onrender.com/docs  
 
+## image
+![Swagger UI](images/swagger_ui.png)
+
 
 
